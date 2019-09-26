@@ -52,7 +52,7 @@ nav div{
 .box2{
   grid-column: 2/4;
   grid-row: 3/10;
-  background-size:cover;
+  background-size:cover; /*https://blog.vjeux.com/2013/image/css-container-and-cover.html*/
   background-image:url("images/navy_floral.jpg");
   position:relative; /*this allows absolute positioning to happen inside the main with the class of .box2--see below*/
 }
