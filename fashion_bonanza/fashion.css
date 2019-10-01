@@ -63,7 +63,7 @@ nav div{
     left:25px;
     font-size:5em;
     color:#ddd;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; /* offset-x | offset-y | blur-radius | color */
     /*makes a border around the text*/
 }
 nav a:link{
