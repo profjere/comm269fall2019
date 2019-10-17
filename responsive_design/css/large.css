@@ -1,4 +1,4 @@
-@media all and (min-width: 781px)  {
+@media all and (min-device-width: 769px)  {
 #container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
