@@ -3,9 +3,7 @@
     padding:0;
 }
 
-body{
-        background-color:#f00;
-    }
+
 
 .pic3 img{
     width:100%;
@@ -14,7 +12,6 @@ body{
 }
 
 header h1{
-    /*VW=viewport height*/
         font-size:17vw;
         text-align: center;
     }
