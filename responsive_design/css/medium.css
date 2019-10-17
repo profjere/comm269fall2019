@@ -1,4 +1,4 @@
-@media all and (min-device-width: 361px) and (min-device-width: 768px)    {
+@media all and (min-device-width: 361px) and (min-device-width: 768px)  {
     
     
   #container{
@@ -15,12 +15,12 @@
     
 main,.pic1{
     grid-column: 1/2;
-    background-color:#0f0;
+    background-color:#90ee90;
 }
 
 aside,.pic2{
         grid-column: 2/3; 
-        background-color:#0f0;
+        background-color:#90ee90;
     }
 
 
