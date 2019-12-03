@@ -1,0 +1,35 @@
+header{
+    background-color: bisque;
+}
+nav {
+    background-color: burlywood;
+}
+
+#box1 {
+    background-color: chartreuse;
+}
+
+#box2 {
+    background-color: dimgrey;
+}
+
+#box3 {
+    background-color: magenta;
+}
+
+#box4 {
+    background-color: orchid;
+}
+
+#box5 {
+    background-color: darkturquoise;
+}
+
+#box6 {
+    background-color: peachpuff;
+}
+
+footer{
+    background-color: peru;
+}
+
